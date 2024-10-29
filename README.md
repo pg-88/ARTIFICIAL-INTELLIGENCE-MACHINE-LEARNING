@@ -10,5 +10,11 @@ Course Material
   - [normal distribution](./Slide/01.4_Slide04.pdf)
   - exercise [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pg-88/ARTIFICIAL-INTELLIGENCE-MACHINE-LEARNING/blob/main/python/lesson01.ipynb) 
   - notebook lesson 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pg-88/ARTIFICIAL-INTELLIGENCE-MACHINE-LEARNING/blob/main/python/lesson02.ipynb)
-
+    
+  - example of distribution [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pg-88/ARTIFICIAL-INTELLIGENCE-MACHINE-LEARNING/blob/main/python/Distribuzioni_scipy.ipynb)
 - numPy [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pg-88/ARTIFICIAL-INTELLIGENCE-MACHINE-LEARNING/blob/main/python/section01_NumPy.ipynb)
+
+
+Link Utili
+- [freeCodeCamp.org](freeCodeCamp.org)
+- 
