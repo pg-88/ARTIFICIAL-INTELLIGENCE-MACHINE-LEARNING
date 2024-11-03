@@ -13,8 +13,8 @@ Course Material
     
   - example of distribution [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pg-88/ARTIFICIAL-INTELLIGENCE-MACHINE-LEARNING/blob/main/python/Distribuzioni_scipy.ipynb)
 - numPy [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pg-88/ARTIFICIAL-INTELLIGENCE-MACHINE-LEARNING/blob/main/python/section01_NumPy.ipynb)
-
+- Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pg-88/ARTIFICIAL-INTELLIGENCE-MACHINE-LEARNING/blob/main/python/pandas_notebook.ipynb)
 
 Link Utili
 - [freeCodeCamp.org](freeCodeCamp.org)
-- 
+- [find dataframe and example](https://www.kaggle.com/)
