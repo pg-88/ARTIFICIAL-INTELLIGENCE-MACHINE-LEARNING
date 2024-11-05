@@ -20,4 +20,4 @@ Course Material
 
 Link Utili
 - [freeCodeCamp.org](freeCodeCamp.org)
-- [find dataframe and example](https://www.kaggle.com/)
+- [find dataframe and example on kaggle.com](https://www.kaggle.com/)
