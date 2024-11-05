@@ -15,6 +15,9 @@ Course Material
 - numPy [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pg-88/ARTIFICIAL-INTELLIGENCE-MACHINE-LEARNING/blob/main/python/section01_NumPy.ipynb)
 - Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pg-88/ARTIFICIAL-INTELLIGENCE-MACHINE-LEARNING/blob/main/python/pandas_notebook.ipynb)
 
+- **Unsupervised Machine Learning**
+  - [intro slide ](https://docs.google.com/presentation/d/1FyVdP0GcAifmtjLjO3-4C9MVJ5B8vvGO/edit?usp=sharing&ouid=108017797520463246213&rtpof=true&sd=true) 
+
 Link Utili
 - [freeCodeCamp.org](freeCodeCamp.org)
 - [find dataframe and example](https://www.kaggle.com/)
