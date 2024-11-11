@@ -19,6 +19,7 @@ Course Material
 
 - **Unsupervised Machine Learning**
   - [intro slide ](https://docs.google.com/presentation/d/1FyVdP0GcAifmtjLjO3-4C9MVJ5B8vvGO/edit?usp=sharing&ouid=108017797520463246213&rtpof=true&sd=true) 
+  - [clustering](https://docs.google.com/presentation/d/1e-B3W-lVKoPqYM5H6QYnNL8561yJU5iB/edit?usp=sharing&ouid=108017797520463246213&rtpof=true&sd=true)
 
 Link Utili
 - [freeCodeCamp.org](freeCodeCamp.org)
