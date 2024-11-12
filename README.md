@@ -20,7 +20,8 @@ Course Material
 - **Unsupervised Machine Learning**
   - [intro slide ](https://docs.google.com/presentation/d/1FyVdP0GcAifmtjLjO3-4C9MVJ5B8vvGO/edit?usp=sharing&ouid=108017797520463246213&rtpof=true&sd=true) 
   - [clustering](https://docs.google.com/presentation/d/1e-B3W-lVKoPqYM5H6QYnNL8561yJU5iB/edit?usp=sharing&ouid=108017797520463246213&rtpof=true&sd=true)
+  - Bank Marketing [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pg-88/ARTIFICIAL-INTELLIGENCE-MACHINE-LEARNING/blob/main/python/kmeans/00-Kmeans-Clustering.ipynb)
 
 Link Utili
 - [freeCodeCamp.org](freeCodeCamp.org)
-- [find dataframe and example on kaggle.com](https://www.kaggle.com/)
+- [find dataframe and examples on kaggle.com](https://www.kaggle.com/)
