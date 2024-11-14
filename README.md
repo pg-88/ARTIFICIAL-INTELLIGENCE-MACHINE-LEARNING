@@ -15,6 +15,7 @@ Course Material
 - numPy [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pg-88/ARTIFICIAL-INTELLIGENCE-MACHINE-LEARNING/blob/main/python/section01_NumPy.ipynb)
 - Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pg-88/ARTIFICIAL-INTELLIGENCE-MACHINE-LEARNING/blob/main/python/pandas_notebook.ipynb)
   - Example Spotify [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pg-88/ARTIFICIAL-INTELLIGENCE-MACHINE-LEARNING/blob/main/python/spotify.ipynb)
+
   
 
 - **Unsupervised Machine Learning**
@@ -23,6 +24,7 @@ Course Material
   - Bank Marketing [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pg-88/ARTIFICIAL-INTELLIGENCE-MACHINE-LEARNING/blob/main/python/kmeans/00-Kmeans-Clustering.ipynb)
   - Image quantization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d20FykI2vYP4y4MSoWbzMSFvT1CTWFwb) [image to use ](https://github.com/pg-88/ARTIFICIAL-INTELLIGENCE-MACHINE-LEARNING/blob/1cfac1c5c443b6c70be1990c373802a93a62a1bc/Risorse/palm_trees.jpg)
   - Hierarchical Clustering [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pg-88/ARTIFICIAL-INTELLIGENCE-MACHINE-LEARNING/blob/main/python/Hierarchical-Clustering/Hierarchical_Clustering.ipynb)
+  - [D.B.S.C.A.N](https://docs.google.com/presentation/d/1EdNEm6_-X4YAvQIGYW3WH7FF896UlI81/edit?usp=sharing&ouid=108017797520463246213&rtpof=true&sd=true)
 
 
 Link Utili
