@@ -28,6 +28,10 @@ Course Material
   - DBSCAN Example [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pg-88/ARTIFICIAL-INTELLIGENCE-MACHINE-LEARNING/blob/main/python/DBSCAN/DBSCAN-example.ipynb)
   - DBSCAN parameters [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pg-88/ARTIFICIAL-INTELLIGENCE-MACHINE-LEARNING/blob/main/python/DBSCAN/DBSCAN-parameters.ipynb)
   - Exercise DBSCAN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pg-88/ARTIFICIAL-INTELLIGENCE-MACHINE-LEARNING/blob/main/python/DBSCAN/DBSCAN-Exercise.ipynb)
+  - Principal Component Analysis
+    - [slide](https://docs.google.com/presentation/d/13VgcwVAyA4R6hqF1ITUUjSbm20UM8EKq/edit?usp=sharing&ouid=108017797520463246213&rtpof=true&sd=true)
+    - PCA implementation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pg-88/ARTIFICIAL-INTELLIGENCE-MACHINE-LEARNING/blob/main/python/PCA-Principal-Component-Analysis/00-PCA-Implementation.ipynb)
 Link Utili
 - [freeCodeCamp.org](freeCodeCamp.org)
 - [find dataframe and examples on kaggle.com](https://www.kaggle.com/)
+- [visualize clustering](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)
